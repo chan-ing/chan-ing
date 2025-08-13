@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 Beginner AI Researcher Student in SSU<br>🌱 Studying Multi-Modal/Vision/LLM<br>✨ Looking 'Referring Image Segmentation' 
+💡 Rising AI Researcher MS/Ph.D in SNU IPAI<br>🌱 Studying Multi-Modal/Vision/LLM<br>✨ Looking 'Action Detection with VLM' & 'VLM-E2E' 
 
 
 # 💻 Tech Stack:
